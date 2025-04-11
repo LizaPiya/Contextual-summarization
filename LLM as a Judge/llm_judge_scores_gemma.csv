@@ -1,0 +1,777 @@
+input,target,generated_summary,main_idea_retention,coherence,factual_consistency,avg_score
+"Are you allergic to anything? Yes, I am allergic to eggs and peanuts. Oh, okay. Anything else? Any medication? No, nothing else. Alright.","Subjective:
+- Allergies: Eggs and peanuts.
+- No other allergies or medications mentioned.
+
+Objective:
+- [No objective data provided.]
+
+Assessment:
+- [No assessment information provided.]
+
+Plan:
+- [No plan provided.]","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>Are you allergic to anything? Yes, I am allergic to eggs and peanuts. Oh, okay. Anything else? Any medication?
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient is an adult with no known allergies or medical conditions. The patient has undergone multiple surgeries and has been taking various medications as prescribed by their healthcare provider. They have no current symptoms or test results that would suggest any underlying condition requiring immediate attention. However, they do report being allergic to eggs and peanuts, which may be relevant to their treatment plan if necessary. Further evaluation and testing are recommended to determine the cause of these allergies and assess the effectiveness of their current treatments.",,,,
+"What do you do? I am a registered nurse. That's nice. And do you smoke or drink? No sir. Any history of drug abuse or anything? Absolutely not! Okay, good.","Subjective:
+- Patient is a registered nurse.
+- No history of smoking or drinking.
+- No history of drug abuse.
+
+Objective:
+- No objective data provided.
+
+Assessment:
+- No assessment provided.
+
+Plan:
+- No plan provided.","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>What do you do? I am a registered nurse. That's nice. And do you smoke or drink? No sir. Any history of drug abuse or
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient is a 35-year-old male presenting with no symptoms or signs of illness. He has no medical history of substance use disorders or previous treatments. The patient reports that he does not smoke or consume alcohol. 
+
+### **Summary Explanation:**
+
+This patient presents to the clinic without any reported symptoms or signs of illness. His medical history is notable for his lack of substance use disorder and previous treatments. This information suggests that there may be an underlying condition that requires further evaluation and potential treatment. Further diagnostic testing and assessment are warranted to determine the cause of this patient's presentation.",,,,
+"Guest_clinician: Hello, doctor. Let me give you a run down as to what we are dealing with today. This patient was last seen in January two thousand and four. She is coming for a follow up on interstitial disease secondary to lupus pneumonitis. I will let her tell you more about what happened yesterday. Thanks, nurse. How are you feeling today, miss? Welcome back to the Pulmonary Medicine Clinic. What happened yesterday? Well, I was doing fine since last time. My respiratory issues have been great and I have had no major difficulties breathing. That's good to hear. What happened yesterday that caused you to want to come in so urgently? Yesterday I noticed that I have some back and joint pain. When I breathe deep my back hurts. Are you experiencing any coughing? No, coughing at this moment. Have you been producing any mucus the times that you do cough? No, I already said I didn't cough. Okay. Any fevers or chills? Nothing so far. Do you have any other symptoms currently? I do notice that I am more tired than usual. During physical activity do you seem out of breath or more tired than usual? I want to see if your pulmonary system is inhibited. No. I don't have issues with breathing when I do daily activities.","Initial:
+
+Subjective:
+- Symptoms: Back pain, joint pain, increased fatigue.
+- Severity: Not specified.
+- Duration: Symptoms noted yesterday.
+- Associated symptoms: No cough, no mucus production, no fever or chills.
+- Relevant medical history: Interstitial disease secondary to lupus pneumonitis.
+- Family history: Not mentioned.
+- Allergies: Not mentioned.
+- Concerns: Patient is feeling more tired than usual but does not have breathing issues during daily activities.
+
+Objective:
+- No measurable or observable data provided.
+
+Assessment:
+- No clinician's interpretation or diagnoses provided.
+
+Plan:
+- No actions, medications, tests, follow-up, or patient education explicitly mentioned.","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>Guest_clinician: Hello, doctor. Let me give you a run down as to what we are dealing with today. This patient was last seen in January two thousand and four. She is coming for a follow up on interstitial disease secondary to lupus pneumonitis. I will let her tell you more about what happened yesterday. Thanks, nurse. How are you feeling today, miss? Welcome back to the Pulmonary Medicine Clinic. What happened yesterday? Well, I was doing fine since last time. My respiratory issues have been great and I have had no major difficulties breathing. That's good to hear. What happened yesterday that caused you to want to come in so urgently? Yesterday I noticed that I have some back and joint pain. When I breathe deep my back hurts. Are you experiencing any coughing? No, coughing at this moment. Have you been producing any mucus the times that you do cough? No, I already said I didn't cough. Okay. Any fevers or chills? Nothing so far. Do you have any other
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient presents with symptoms of interstitial lung disease (ILD) secondary to lupus pneumonitis, which has been ongoing since 2004. The patient reports mild respiratory issues, including back and joint pain when breathing deeply, but no significant coughing episodes. There are no fever, chills, or production of sputum. These symptoms suggest an inflammatory process affecting the lungs, consistent with ILD. Further evaluation may be warranted to confirm the diagnosis and assess the severity of the condition. A chest X-ray would be appropriate to rule out other causes of respiratory distress. Given the patient's history of lupus pneumonitis, it is essential to monitor for potential complications such as pulmonary fibrosis or pleurisy. Regular monitoring of lung function tests and serial blood work may also be necessary to track changes in the patient's condition over time.
+
+### **Key Points:**
+
+1. **Diagnosis:** Interstitial Lung Disease (ILD) secondary to Lupus Pneumonitis.
+2",5.0,4.0,5.0,4.666666666666667
+"I was wondering if you could start by telling me what brought you into the emergency Department. So I came to the emergency Department because I've been having pain in my chest. OK, where is the pain located? I would say it's like the whole pretty much the left side of my chest. OK, and when did this pain start? So I think it started just around 2 hours ago. I actually was riding my bicycle and just fell off on, kind of just slipped and I think I fell on that side like when I the impact was right on my chest and since then it's been really painful. OK I am how would you describe the pain, sometimes people will use words like burning dull, achy. I think it's more like someone is just stabbing me and then whole left side area. OK, and um. Anything that you've been doing that's that's made the pain worse? If I. Think I have to take really really slow and shallow breaths. If I try to take a deep breath it just really hurts like taking those small, smaller breaths helps. OK, and do you feel the pain anywhere else, or is it just on the left side of your chest? No, I would say just on the left side. OK, and has the pain been getting worse, staying the same or getting better? I'd say over the last two hours it's been getting worse. OK, and do you have any other associated symptoms? Uh, like I think I I'm having. Also maybe it's just because I'm trying to breathe slowly, but I feel like I can't catch my breath. OK, um has anything like this ever happened to you before? No, no. I mean, I've never had any pain in my chest before. OK are you, did you have a loss of consciousness when you fell off your bike? No, I got right back up. I just just had the pain. OK, so any injuries to the head? No. OK. That's fine. I was wearing a helmet. OK, excellent and any headache right now? No. OK, how about any fever chills? No, I feel I'm fine. Any nausea or vomiting? Nope. Do you feel as though your heart's racing? I would say like in the last hour a little bit more so than usual. OK. Any skin changes or or rashes you've noticed? Besides, just I got some scrapes here and there on my hands, but nothing else. OK, and do you have a cough? Nope. OK, and any recent infections? No, I've been pretty pretty healthy recently. No, no cough or no infections. OK, and uh, any dizziness? Um no. Alright, and I know you mentioned the few scratches on your hands, but any other injuries? Oh no, I I think I got a pretty lucky. Oh, OK. And any alcohol or drug intake prior to falling off your bike? Oh no, no, I was completely sober. No no drugs or alcohol. OK, and any weakness or numbness or tingling that you noticed? Um no nothing like that. Alright, and, when was the last time you had anything to eat or drink? I just had some cereal and, um, just some chocolate milk around breakfast time but nothing else. OK, and how many hours ago was that? I would say around 3 hours ago. OK. Um, and have you been diagnosed with any medical conditions in the past? Uh, not other than just a hay fever, but nothing nothing else. I have like a lot of allergies. Any allergies to medications? Oh, just sometimes when I take like a nasal spray I think I might have an allergy to the steroids that they give me and sometimes also some of the antihistamines I think I get some allergies from them. OK. Uh, and any hospitalizations? No, never. Any surgeries? Nope. OK. Anybody in the family who have any illnesses? Just my father. He has type 2 diabetes but nothing else. OK, and how do you support yourself currently financially? Oh so I work just as like a mechanic just in the city and currently I just have myself to support. I live alone in an apartment, so I'm doing fairly well. OK, and do you smoke? I smoke around like I'd say 2 and a half to 3 packs per day. I know it's. Yeah, I have tried quitting before, but I would say I've been smoking since I was 18. OK, and do you smoke marijuana? No, no, no marijuana, no other drugs. OK, and do you drink alcohol? Yeah, it's just like sometimes on the weekend. I'll just have a beer or two while watching the game, but not nothing regular. OK, thank you.","Subjective:
+- Chest pain on the left side
+- Started 2 hours ago after falling off a bicycle
+- Described as stabbing pain
+- Worsens with deep breaths, alleviated by shallow breaths
+- Pain has been getting worse over the last 2 hours
+- Associated symptoms: shortness of breath, heart racing
+- No previous episodes of chest pain
+- No loss of consciousness, no head injury, no headache, no fever, chills, nausea, vomiting, cough, dizziness, weakness, numbness, or tingling
+- No recent infections
+- Scrapes on hands from the fall
+- No alcohol or drug intake prior to the fall
+
+Past Medical History:
+- PMHx: hay fever, allergies to nasal spray steroids and some antihistamines
+- No hospitalisations or surgeries
+- FHx: father with type 2 diabetes
+- SocHx: works as a mechanic, lives alone, smokes 2.5-3 packs/day, occasional alcohol on weekends, no marijuana or other drugs
+
+Objective:
+- No vitals or physical examination findings provided
+
+Assessment:
+- No diagnosis or differential diagnosis provided
+
+Plan:
+- No investigations or treatment plans provided","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>I was wondering if you could start by telling me what brought you into the emergency Department. So I came to the emergency Department because I've been having pain in my chest. OK, where is the pain located? I would say it's like the whole pretty much the left side of my chest. OK, and when did this pain start? So I think it started just around 2 hours ago. I actually was riding my bicycle and just fell off on, kind of just slipped and I think I fell on that side like when I the impact was right on my chest and since then it's been really painful. OK I am how would you describe the pain, sometimes people will use words like burning dull, achy. I think it's more like someone is just stabbing me and then whole left side area. OK, and um. Anything that you've been doing that's that's made the pain worse? If I. Think I have to take really really slow and shallow breaths. If I try to take a deep breath it just really hurts like taking those small, smaller breaths helps. OK, and do you feel the pain anywhere else, or is it just on the left side of your chest? No, I would say just on the left side. OK, and has the pain been getting worse, staying the same or getting better? I'd say over the last two hours it's been getting worse. OK, and do you have any other associated symptoms? Uh, like I think I I'm having. Also maybe it's just because I'm trying to breathe slowly, but I feel like I can't catch my breath. OK, um has anything like this ever happened to you before? No, no. I mean, I've never had any pain in my chest before. OK are you, did you have a loss of consciousness when you fell off your bike? No, I got right back up. I just just had the pain. OK, so any injuries to the head? No. OK. That's fine. I was wearing a helmet. OK, excellent and any headache right now? No. OK, how about any fever chills? No, I feel I'm fine. Any nausea or vomiting? Nope. Do you feel as though your heart's racing? I would say like in the last hour a little bit more so than usual. OK. Any skin changes or or rashes you've noticed? Besides, just I got some scrapes here and there on my hands, but nothing else. OK, and do you have a cough? Nope. OK, and any recent infections? No, I've been pretty pretty healthy recently. No, no cough or no infections. OK, and uh, any dizziness? Um no. Alright, and I know you mentioned the few scratches on your hands, but any other injuries? Oh no, I I think I got a pretty lucky. Oh, OK. And any alcohol or drug intake prior to falling off your bike? Oh no, no, I was completely sober. No no drugs or alcohol. OK, and any weakness or numbness or tingling that you noticed? Um no nothing like that. Alright, and, when was the last time you had anything to eat or drink? I just had some cereal and, um, just some chocolate milk around breakfast time but nothing else. OK, and how many hours ago was that? I would say around 3 hours ago. OK. Um, and have you been diagnosed with any medical conditions in the past? Uh, not other than just a hay fever, but nothing nothing else. I have like a lot of allergies. Any allergies to medications? Oh, just sometimes when I take like a nasal spray I think I might have an allergy to the steroids that they give me and sometimes also some of the antihistamines I think I get some allergies from them. OK. Uh, and
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient presents with acute onset of sharp, stabbing chest pain radiating to the left side, which worsened over the past 2 hours. The pain is described as burning dull and achy, particularly localized to the left side of the chest. The patient reports difficulty breathing, especially during rapid or deep breathing attempts, and has experienced increased heart rate over the past hour. There are no other significant symptoms such as nausea, vomiting, or dizziness. The patient has a history of allergies to certain medications, including steroids and antihistamines. The patient was wearing a helmet while cycling and did not report any previous episodes of chest pain. The patient's condition appears to be stable at present, but further evaluation is needed to rule out underlying causes of the chest pain. Further testing may be necessary to determine the cause of the pain and its relationship to the patient's medication regimen.
+
+### **Key Points:**
+
+* Acute onset of sharp, stabbing chest pain radiating to the left side
+",,,,
+Tell me about your family medical history. My family is pretty healthy. I don't know of any health problems.,"Subjective:
+- Family medical history: Patient reports that their family is pretty healthy and they do not know of any health problems.
+
+Objective:
+- [No measurable or observable data provided.]
+
+Assessment:
+- [No clinician's interpretation or diagnoses provided.]
+
+Plan:
+- [No actions, medications, tests, follow-up, or patient education provided.]","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>Tell me about your family medical history. My family is pretty healthy. I don't know
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient's family has no known medical issues or previous test results. The patient does not have any treatments currently being administered. This information may be used to inform future treatment decisions.
+
+---
+
+### **Summary of Key Findings**
+
+*   No significant medical conditions were identified.
+*   No prior medical tests or treatments were mentioned.
+*   Future treatment plans will likely involve monitoring and observation rather than active interventions.
+
+### **Recommendations for Further Evaluation**
+
+*   Regular check-ups with primary care physician
+*   Monitoring of vital signs and laboratory results
+*   Follow-up appointments with specialists as needed
+
+### **Potential Complications or Risks**
+
+*   None noted at this time
+
+### **Next Steps**
+
+*   Schedule follow-up appointment with primary care physician
+*   Continue regular health checks with primary care physician",,,,
+"Guest_clinician: How is the patient's condition now? Well, he has improved clinically but would require acute care. Guest_clinician: Oh, I see.","Subjective:
+- The patient has improved clinically but requires acute care.
+
+Objective:
+- (No objective data provided)
+
+Assessment:
+- The patient's condition has improved, but acute care is still needed.
+
+Plan:
+- (No plan provided)","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>Guest_clinician: How is the patient's condition now? Well, he has improved clinically but would require acute care. Guest_cl
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient is currently stable with no current symptoms or complications. The clinical improvement is attributed to the absence of any underlying conditions that necessitated hospital admission. No further interventions are required at this time.",5.0,5.0,4.0,4.666666666666667
+"Good morning. How are you feeling today? I feel good, considering. I slept well last night. Are you expensing any pain or discomfort? No. I feel fine.","Subjective:
+- Patient feels good, considering.
+- Slept well last night.
+- No pain or discomfort reported.
+
+Objective:
+- (No objective data mentioned)
+
+Assessment:
+- (No assessment provided)
+
+Plan:
+- (No plan provided)","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>Good morning. How are you feeling today? I feel good, considering. I slept well last night. Are you expensing any pain or
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient is currently experiencing no symptoms of pain or discomfort. They have been sleeping well and report feeling generally healthy. There are no medical tests or treatments mentioned at this time.
+
+### **Summary Explanation:**
+
+1.  **Initial Assessment**: The patient's overall health appears to be normal based on their self-reported sleep quality and absence of reported symptoms.
+2.  **Lack of Symptoms**: No specific complaints or issues were identified during the initial assessment.
+3.  **No Medical History**: The patient has no known medical conditions that could potentially impact their current state.
+4.  **Current Status**: The patient is functioning normally without any apparent issues.
+
+### **Key Points to Consider:**
+
+*   A thorough review of the patient's history and physical examination may reveal additional information about their condition.
+*   Further testing or evaluation may be necessary if there are concerns about potential underlying causes of their symptoms.
+*   The patient's current status remains unchanged, but ongoing monitoring is recommended to ensure they remain",,,,
+"They gave you Procrit for your anemia? Yes I think so. That is how they treated it in the past. Okay. Are you married? Who do you live with? Oh I am by myself. Okay, and do you smoke or drink alcohol? No I do not. Great. Okay.","Subjective:
+- Patient has anemia.
+- Patient was treated with Procrit in the past for anemia.
+- Patient lives alone.
+- Patient does not smoke or drink alcohol.
+
+Objective:
+- (No objective data mentioned)
+
+Assessment:
+- (No assessment provided)
+
+Plan:
+- (No plan provided)","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>They gave you Procrit for your anemia? Yes I think so. That is how they treated it in the past. Okay. Are you married? Who do you live with? Oh I am by myself. Okay, and do you smoke
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient presented with symptoms of anemia, which was diagnosed as a result of chronic blood loss. The treatment involved administering Procrit (Erythropoietin), a medication that stimulates red blood cell production. This is a common approach to manage anemia in patients who have experienced significant blood loss or have underlying conditions that affect erythropoiesis. In this case, the patient's condition improved significantly after starting Procrit. However, the patient reported no other health issues besides their anemia. They were living alone and did not report any smoking habits. 
+
+### **Key Points:**
+
+1.  **Diagnosis**: Anemia due to chronic blood loss.
+2.  **Treatment**: Administration of Procrit (Erythropoietin) to stimulate red blood cell production.
+3.  **Response**: Significant improvement in symptoms following treatment initiation.
+4.  **Living Situation**: Living alone without reporting any additional health concerns.
+5.  **Smoking Status**: No history",,,,
+"Are you married? Yes. Who do you have in your family? Me, my spouse and three happy kids. One of them is ready to go to college. Are you working? Yes and no. What does that mean? I was an attorney but retired from my official post two years back. I just couldn't stay back home and do nothing, so I just joined a private company and am working there part time. Sounds great. Do you smoke or drink? No. I am guessing no drugs either? Correct.","Subjective:
+- Patient is married and has a spouse and three children.
+- One child is preparing to go to college.
+- Patient was an attorney but retired from their official position two years ago.
+- Currently working part-time at a private company.
+- Denies smoking, drinking alcohol, or using drugs.
+
+Objective:
+- [No objective data provided.]
+
+Assessment:
+- [No assessment or clinical impressions provided.]
+
+Plan:
+- [No plan provided.]","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>Are you married? Yes. Who do you have in your family? Me, my spouse and three happy kids. One of them is ready to go to college. Are you working? Yes and no. What does that mean? I was an attorney but retired from my official post two years back. I just couldn't stay back home and do nothing, so I just joined a private company and am working there part
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient is a 35-year-old male who has been retired from his legal career as an attorney. He currently works part-time at a private company. The patient's primary concerns are none, with no medical issues or treatments mentioned. His current situation involves feeling unfulfilled and restless due to a lack of purpose after retiring from his law practice. This may be related to feelings of isolation and disconnection from society, which could potentially impact mental health and overall well-being.
+
+### **Key Points:**
+
+1. **Retirement from Law Career**: The patient's decision to leave his job as an attorney suggests he feels unfulfilled and disconnected from his professional life.
+2. **Part-Time Work**: Working part-time at a private company indicates a desire for more autonomy and variety in his work life.
+3. **Lack of Purpose**: Feeling ""restless"" and ""unfulfilled"" implies a sense of discontent with his current circumstances, possibly stemming from a lack of meaning or direction.
+",5.0,5.0,5.0,5.0
+"Good afternoon, champ, how you holding up? Good afternoon, Doctor, I have a lot of lower back pain. Oh no, before we begin, how old are you, sir and which hand do you write with? I'm seventy five now. Right. Great, so tell me, how long have you had this lower back pain? It's been about ten days now. Have your symptoms improved at all since they began? No, they keep getting worse. Does the pain radiate into your legs? Yes, it started radiating down my right leg three days after the lower back pain began, and then the left leg three days after the right. The next day I could barely walk, the pain was so severe. Do you remember the initial date of the beginning of your low back pain? Um, it was on December third nineteen ninety five. Have you seen another doctor for this pain? Yes, I saw my local physician, um, it was on December eleventh, but he wasn't able to pinpoint what was going on. What kind of treatments did he recommend? He gave me some antiinflammatories and sent me on my way. Did you drive yourself? Yes, I did. How did the antiinflammatories work? Um, by the time I got home, I could hardly walk due to the back pain, and I had weakness in my legs. I was, however, able to feed my dogs, and I fixed myself some dinner. Was there any leg numbness? Yes. Since December eleventh. Have you seen an orthopedist for this pain? Yes, I saw one the day after my primary care physician, but my legs gave out and I fell while walking to my car because of the leg weakness and back pain. What kind of imaging studies did that orthopedist do? He did a C T and x rays of my lower back, but he didn't see anything wrong. He recommended I follow up at U I H C. The imaging was on my L S Spine.","Subjective:
+- Symptoms: Lower back pain, radiating pain down the right leg, then the left leg.
+- Severity: Severe pain, described as ""I could barely walk"" and ""the pain was so severe.""
+- Duration: Lower back pain for about ten days; radiating pain started three days after back pain began (right leg), then left leg three days later.
+- Associated symptoms: Weakness in the legs, leg numbness since December eleventh.
+- Relevant medical history: Saw local physician on December eleventh; received anti-inflammatory medications which were ineffective.
+- Family history: Not mentioned.
+- Allergies: Not mentioned.
+- Other concerns: Patient expressed difficulty walking and concerns about the severity of their symptoms.
+
+Objective:
+- Physical examination findings: Not provided.
+- Diagnostic test results: CT and X-rays of the lower back performed by the orthopedist, but no abnormalities were noted.
+- Vital signs: Not provided.
+
+Assessment:
+- Diagnoses: Not explicitly stated, but indicated severe lower back pain with radiculopathy.
+- Differential diagnoses: Not provided.
+- Clinical impressions: Not explicitly stated.
+
+Plan:
+- Follow up at U I H C as recommended by the orthopedist. 
+- No specific medications, treatments, or further tests mentioned in the conversation.","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>Good afternoon, champ, how you holding up? Good afternoon, Doctor, I have a lot of lower back pain. Oh no, before we begin, how old are you, sir and which hand do you write with? I'm seventy five now. Right. Great, so tell me, how long have you had this lower back pain? It's been about ten days now. Have your symptoms improved at all since they began? No, they keep getting worse. Does the pain radiate into your legs? Yes, it started radiating down my right leg three days after the lower back pain began, and then the left leg three days after the right. The next day I could barely walk, the pain was so severe. Do you remember the initial date of the beginning of your low back pain? Um, it was on December third nineteen ninety five. Have you seen another doctor for this pain? Yes, I saw my local physician, um, it was on December eleventh, but he wasn't able to pinpoint what was going on. What kind of treatments did he recommend? He gave me some antiinflammatories and sent me on my way. Did you drive yourself? Yes, I did. How did the antiinflammatories work? Um, by the time I got home, I could hardly walk due to the back pain, and I had weakness in my legs. I was, however, able to feed my dogs, and I fixed myself some dinner. Was there any leg numbness? Yes. Since December eleventh. Have you seen an orthopedist for this pain? Yes, I saw one the
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient presents with chronic lower back pain that has worsened over the past ten days, starting from December 3rd, 1995. The pain radiates down both legs, particularly affecting the right leg three days prior to the onset of the pain. The patient reports difficulty walking and severe pain upon waking. The pain is exacerbated by physical activity and decreased mobility. The patient has tried anti-inflammatory medications without relief. The patient has also experienced weakness in their legs, as well as numbness in the legs. The patient has sought medical attention previously, including visits to a local physician on December 11th, who recommended anti-inflammatory medication and referred them to see an orthopedic specialist. However, the patient has not yet visited an orthopedic specialist. The patient's current treatment plan includes continuing to take anti-inflammatory medication and attempting to manage their symptoms through self-care measures such as feeding themselves and taking care of their pets.",,,,
+"What brings you in? Hi, I've I've had this pain on the outside of my uh right elbow now it's it I first started knowing, noticing it several months ago, but recently it's just been more painful. OK, so you said several months ago. Um did anything happen several months ago? Was there any sort of trigger, trauma, anything like that to that area? No, there wasn't any any trauma or any triggers that that I noticed, I was just um feeling it, uh, a bit more at the end of of work. Um yeah, I was just having it uh, feeling the pain a bit more at the end of work. OK, does uh anything make it better or worse, the pain? Um yeah, if I, really if I'm just resting the elbow um it makes it better, and I've tried uh things like ibuprofen um which has helped with the pain, I'll I'll do that for um hoping I can get through work sometimes if the pain is bad enough. Right, OK. Um and if you were to describe the quality of the pain, is it sharp, throbby, achy? Uh it's um kind of uh, well, it's achy and then sometimes depending on the movement it can get, it can be sharp as well. It can be sharp, OK. OK, um and what sorts of movements make it worse? Um, so like, really it's mostly the movements at my wrist, if I'm bending my wrist down, uh I can I can feel it, or um if I'm having to pick things up or hold heavy objects at work, I do a lot of repetitive uh things at at work, I work on a line. OK, OK. And 1 to 10, 10 being the worst pain you've ever felt, how bad is this pain? It is about a four. About a four, OK. And have you ever experienced this type of pain before? Uh, no I haven't. No, OK, and do you feel like your pain is getting worse over the past several months, or is it the same, getting better? Uh it's been getting worse. It's been getting worse, OK. OK, um have you tried any like topical ointments or anything like that for it? Uh I did, I yeah, I tried some um some stuff that you can get at the um drugstore and it did help take the edge off a little bit. OK. Um alright and are you still able to move that arm, your right arm, um as well as your hand? I am, yeah, I I have full range of motion of both the elbow and uh hand. OK and it's not like preventing you from doing everyday tasks? Uh, no. I I've been been able to manage so far at work, but um it is starting to become an issue um yeah, with my job. OK. Um alright, and then do you have any sorts of aches or pains uh in any other joint or muscle groups? No, it's just right there on the outside of my right elbow, and it's really annoying 'cause I'm right handed as well, so um yeah, it's causing problems there. Right, um and is the pain radiating upwards or downwards? Uh no, I kinda just feel it right over that that one spot. OK, any numbness or tingling in that arm? No, no, no numbness or tingling. Yeah, um OK, and then how about um like your arm feeling like it's cold? No, I haven't had anything like that. OK, alright, um and then otherwise do you have any other symptoms? Um no I, it's just been the elbow pain. OK, so no weight loss? No, my weights been stable over these last few months. OK, fevers or chills? No, I haven't had any fevers or chills. OK, any fatigue? No, my energy's been good. OK. How about um rashes? Uh no rashes. OK. Changes to your senses like vision, hearing, smell, smell or taste? No changes there. OK any coughing, shortness of breath, or wheezing? No. OK. Chest pain, any heart palpitations, or uh dizziness? Nothing like that. OK, changes to your bowel movements? No. No, no no nausea or vomiting? No, I haven't had any nausea or vomiting. OK. Changes to your urine? No, I haven't had any urinary uh symptoms. OK. Memory loss or confusion? No. OK, so if you look at that right elbow, um do you notice any redness or swelling? Uh no, I don't. No, OK. Does it seem misaligned or like asymmetrical compared to your other elbow? No, it looks, it looks the same. Looks the same, OK so no um skin changes or deformities there? Uh no. No, OK, alright and now I'm going to get you to um just palpate uh that lateral or yeah, the lateral aspect of that elbow and you let me know if you feel pain when you push, push on that. Uh there is pain at the lateral uh lateral elbow. How about the medial aspect? No pain. No pain, OK, and how about when you palpate your um forearm and your biceps? Uh no no pain. OK, alright and then do you feel like it's hot, that area? No. No, OK now I am going to get you to um extend your wrist. OK. And then keep your elbow in full extension as well. Does that hurt? Uh it does, yeah. Yeah, OK, how about when you flex your wrist with the elbow still in full extension? Uh it does, yeah that hurts as well. OK, how about when you flex your elbow? Uh no, that that doesn't cause any pain. OK. How about when you extend your shoulder all the way up? No, nothing there, that feels fine. OK, and then flexing your uh, or sorry abducting your shoulder? That feels normal. OK, alright, and then how about when you pronate and supinate your forearms? Uh, pronation um? So like twist your um arm inwards so that your palm is facing the floor. No, that doesn't really cause any pain, pronation and supination. OK, alright. Um alright, and then are you otherwise healthy or do you have any longstanding medical conditions? Um I'm uh healthy. You're healthy, OK. And then UM do you have, have you had any hospitalizations or surgeries in the past? I had a surgery for um a C-section for uh my, my son, um but that's that's it. OK. OK, and um how long ago was that? That was about uh 17 years ago. OK. And was that an emergency C-section? Uh no, it was not. OK um and then are you on any medications? Um no, I've just been taking uh Tylenol and Advil um for the pain. OK, alright um immunizations wise, are you up to date? Uh I I am, yes. OK. Do you have any allergies? Uh no allergies. OK, family history of any uh skeletal or muscular um issues? Um no, nothing like that in the family. OK, neurological issues in the family? Um no neurological issues in the family. OK, how about um autoimmune conditions? Uh no, nothing like that. OK and then um do you smoke? Uh no, I haven't smoked before. OK, uh do you do um marijuana. No, I I don't use that. OK. Um Alcohol? Um uh yeah, I'll have a glass of wine every once in awhile, but maybe just one, one a week. OK, and have you been around sick contacts recently? Um no, I haven't been around anybody who's been sick. OK. Any recent travel? Uh nope, I've been at home. OK. Um I think those are all the questions that I had for you, um did you have any questions of your own for myself? Uh no, I was just wondering what this pain could be on my, in my elbow. Yeah, so right now it seems like you may have a case of something called um lateral epicondylitis. So, it's also known as uh tennis elbow, um and there are a lot of things that could kind of predispose you to this, um so it could be like the repetitive strain at work, um and like continuous contraction of your wrist extensor muscle group there. Um so for this we basically recommend um a couple of things to manage the pain. Uh but first, like in terms of imaging, I don't think it is necessary because it doesn't seem like there was any trauma and I'm not too worried about any fractures. Um so to help you treat this, um we recommend some activity modifications, so um at work not doing things that are too repetitive, especially if it's using those um extensor forearm muscles. Um and then you can use some, use a compression sleeve as well, continue taking Tylenol or NSAIDs for the pain and uh really important is physical therapy um to increase mobility and strength in that arm. Uh and as well you can apply things like ice um to it for like the pain and swelling if you see any. Uh, yeah, so it should resolve in about six months to two years at most, uh but normally it does um go away in a couple of months with some physical therapy and the compression and splints if you choose to do that. How does that sound? Yeah, that that sounds um good, thank you. Yeah, no worries.","Subjective:
+- Right elbow pain, lateral aspect, started several months ago, recently more painful (4/10 severity)
+- No trauma or triggers noted, pain worse at end of work day
+- Pain improves with rest and ibuprofen
+- Pain is achy, sometimes sharp with certain movements (wrist flexion, lifting/holding heavy objects at work)
+- Repetitive work on a line
+- Topical OTC ointments provide some relief
+- Able to move right arm and hand fully, but pain is becoming an issue at work
+- Pain localized to lateral right elbow, no radiation
+- No numbness, tingling, or coldness in arm
+
+Objective:
+- No redness, swelling, misalignment, or deformity of right elbow
+- Tenderness to palpation over lateral elbow, no tenderness over medial elbow, forearm, or biceps
+- Pain with wrist extension and flexion, elbow in full extension
+- No pain with elbow flexion, shoulder extension, adduction, forearm pronation, or supination
+
+Past Medical History:
+- Healthy, no chronic medical conditions
+- C-section 17 years ago (non-emergent)
+- No medications other than Tylenol and Advil PRN for pain
+- Up to date on immunizations
+- No allergies
+- No family history of skeletal, muscular, neurological, or autoimmune conditions
+
+Social History:
+- Non-smoker, no marijuana use
+- Occasional alcohol use (1 glass of wine per week)
+- No recent sick contacts or travel
+
+Assessment:
+- Lateral epicondylitis (tennis elbow)
+
+Plan:
+- No imaging necessary at this time
+- Activity modification at work to avoid repetitive motions and heavy lifting
+- Consider using compression sleeve
+- Continue Tylenol or NSAIDs PRN for pain
+- Physical therapy for mobility and strengthening
+- Apply ice for pain and swelling PRN
+- Expected resolution in 6 months to 2 years with conservative management","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>What brings you in? Hi, I've I've had this pain on the outside of my uh right elbow now it's it I first started knowing, noticing it several months ago, but recently it's just been more painful. OK, so you said several months ago. Um did anything happen several months ago? Was there any sort of trigger, trauma, anything like that to that area? No, there wasn't any any trauma or any triggers that that I noticed, I was just um feeling it, uh, a bit more at the end of of work. Um yeah, I was just having it uh, feeling the pain a bit more at the end of work. OK, does uh anything make it better or worse, the pain? Um yeah, if I, really if I'm just resting the elbow um it makes it better, and I've tried uh things like ibuprofen um which has helped with the pain, I'll I'll do that for um hoping I can get through work sometimes if the pain is bad enough. Right, OK. Um and if you were to describe the quality of the pain, is it sharp, throbby, achy? Uh it's um kind of uh, well, it's achy and then sometimes depending on the movement it can get, it can be sharp as well. It can be sharp, OK. OK, um and what sorts of movements make it worse? Um, so like, really it's mostly the movements at my wrist, if I'm bending my wrist down, uh I can I can feel it, or um if I'm having to pick things up or hold heavy objects at work, I do a lot of repetitive uh things at at work, I work on a line. OK, OK. And 1 to 10, 10 being the worst pain you've ever felt, how bad is this pain? It is about a four. About a four, OK. And have you ever experienced this type of pain before? Uh, no I haven't. No, OK, and do you feel like your pain is getting worse over the past several months, or is it the same, getting better? Uh it's been getting worse. It's been getting worse, OK. OK, um have you tried any like topical ointments or anything like that for it? Uh I did, I yeah, I tried some um some stuff that you can get at the um drugstore and it did help take the edge off a little bit. OK. Um alright and are you still able to move that arm, your right arm, um as well as your hand? I am, yeah, I I have full range of motion of both the elbow and uh hand. OK and it's not like preventing you from doing everyday tasks? Uh, no. I I've been been able to manage so far at work, but um it is starting to become an issue um yeah, with my job. OK. Um alright, and then do you have any sorts of aches or pains uh in any other joint or muscle groups? No, it's just right there on the outside of my right elbow, and it's really annoying 'cause I'm right handed as well, so um yeah, it's causing problems there. Right, um and is the pain radiating upwards or downwards? Uh no, I kinda just feel it right over that that one spot. OK, any numbness or tingling in that arm? No, no, no numbness or tingling. Yeah, um OK, and then how about um like your arm feeling like it's cold? No, I haven't had anything like that. OK, alright, um and then otherwise do you have any other symptoms? Um no I, it's just been the elbow pain. OK, so no weight loss? No, my weights been stable over these last few months. OK, fevers or chills? No, I haven't had any fevers or chills. OK, any fatigue? No, my energy's been good. OK. How about um rashes? Uh no rashes. OK. Changes to your senses like vision, hearing, smell, smell or taste? No changes there. OK any coughing, shortness of breath, or wheezing? No. OK. Chest pain, any heart palpitations, or uh dizziness? Nothing like that. OK, changes to your bowel movements? No. No, no no nausea or vomiting? No, I haven't had any nausea or vomiting. OK. Changes to your urine? No, I haven't had any urinary uh symptoms. OK. Memory loss or confusion? No. OK, so if you look at that right elbow, um do you notice any redness or swelling? Uh no, I don't. No, OK. Does it seem misaligned or like asymmetrical compared to your other elbow? No, it looks, it looks the same. Looks the same, OK so no um skin changes or deformities there? Uh no. No, OK, alright and now I'm going to get you to um just palpate uh that lateral or yeah, the lateral aspect of that elbow and you let me know if you feel pain when you push, push on that. Uh there is pain at the lateral uh lateral elbow. How about the medial aspect? No pain. No pain, OK, and how about when you palpate your um forearm and your biceps? Uh no no pain. OK, alright and then do you feel like it's hot, that area? No. No, OK now I am going to get you to um extend your wrist. OK. And then keep your elbow in full extension as well. Does that hurt? Uh it does, yeah. Yeah, OK, how about when you flex your wrist with the elbow still in full extension? Uh it does, yeah that hurts as well. OK, how about when you flex your elbow? Uh no, that that doesn't cause any pain. OK. How about when you extend your shoulder all the way up? No, nothing there, that feels fine. OK, and then flexing your uh, or sorry abducting your shoulder? That feels normal. OK, alright, and then how about when you pronate and supinate your forearms? Uh, pronation um? So like twist your um arm inwards so that your palm is facing the floor. No, that doesn't really cause any pain, pronation and supination. OK, alright. Um alright, and then are you otherwise healthy or do you have any longstanding medical conditions? Um I'm uh healthy. You're healthy, OK. And then UM do you have, have you had any hospitalizations or surgeries in the past? I had a surgery for um a C-section for uh my, my son, um but that's that's it. OK. OK, and um how long ago was that? That was about uh 17 years ago. OK. And was that an emergency C-section? Uh no, it was not. OK um and then are you on any medications? Um no, I've just been taking uh Tylenol and Advil um for the pain. OK, alright um immunizations wise, are you up to date? Uh I I am, yes. OK. Do you have any allergies? Uh no allergies. OK, family history of any uh skeletal or muscular um issues? Um no, nothing like that in the family. OK, neurological issues in the family? Um no neurological issues in the family. OK, how about um autoimmune conditions? Uh no, nothing like that. OK and then um do you smoke? Uh no, I haven't smoked before. OK, uh do you do um marijuana. No, I I don't use that. OK. Um Alcohol? Um uh yeah, I'll have a glass of wine every once in awhile,
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient presents with chronic pain on the outer aspect of their right elbow, described as achy and sharp, particularly after activities involving wrist movement and heavy lifting. The pain worsens with specific movements such as bending the wrist downward and picking up heavy objects. The pain is rated 4 out of 10 in severity. The patient reports no previous episodes of similar pain and denies any underlying medical conditions or recent hospitalizations. They are currently taking Tylenol and Advil for pain management. The physical examination reveals tenderness at the lateral aspect of the elbow upon palpation, with pain exacerbated by wrist extension and flexion. The patient's overall health appears to be generally healthy, with no significant medical history or current medication regimen. The presence of a history of a C-section without complications suggests that the pain may be related to the original surgical procedure rather than a new condition. Further evaluation and imaging studies are recommended to rule out any underlying causes of the pain.",,,,
+"So, how are feeling? You came here last time with C V A right? Yeah, I am recovering well. You asked me to follow-up for high sugar. Oh yeah, you have diabetes mellitus. Did you happen to get a blood test done before this visit? Yes, I did here is the report.","Subjective:
+- The patient is recovering well from a cerebrovascular accident (CVA).
+- The patient has diabetes mellitus.
+- The patient followed up for high sugar.
+- The patient brought a blood test report to the visit.
+
+Objective:
+- Blood test report presented by the patient.
+
+Assessment:
+- Diabetes mellitus.
+- Follow-up after CVA.
+
+Plan:
+- Review the blood test report.
+- Continue monitoring of diabetes management.","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>So, how are feeling? You came here last time with C V A right? Yeah, I am recovering well. You asked me to follow-up for high sugar. Oh yeah, you have diabetes mellitus. Did you happen to get a blood test
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient is currently recovering from an unspecified illness or condition, which has led to concerns about their overall health, specifically regarding their diabetes management. The patient's current treatment plan includes monitoring their blood sugar levels as part of their care. This suggests that they may be experiencing some level of concern or issue related to their diabetes management, although further information is needed to fully understand the nature of this concern.
+
+### **Key Points:**
+
+1.  **Diabetes Mellitus**: The patient has been diagnosed with diabetes mellitus.
+2.  **Blood Sugar Monitoring**: The patient is being monitored for high sugar levels.
+3.  **Follow-up Appointment**: There was a previous visit where the patient discussed their diabetes management, including blood tests.
+
+### **Additional Information Needed:**
+
+*   Further testing or evaluation to determine the cause of any symptoms
+*   Referral to a specialist if necessary
+*   Follow-up appointment schedule to monitor progress and adjust treatment plan as needed",5.0,4.0,5.0,4.666666666666667
+"What brings you in here today? Yeah, I have this pain in my chest. OK, and where is the pain exactly? It's just right over on the on the left side. OK, and when did this pain start? It started just 30 minutes ago. OK, and did it just come on randomly or were you doing something strenuous? I was just shovelling the driveway and it came on. OK, and has that pain been getting worse at all over the last half an hour? No, it just came on suddenly and it's uh, uh, I'm sorry. Yeah the pain has been there this whole time and it's gotten worse ever since it started. OK, and how would you describe the pain? Is it kind of like an aching pain or is it a sharp or tight tightness kind of pain? How would you describe it? It feels dull. I feel like there's a lot of pressure on my chest. And how do you rate the pain right now on a scale of zero to 10, zero being the least amount of pain you felt in your life, 10 being the worst? Uh, seven. Seven, OK. Have you had ny similar episodes before? No, I've never had any chest pain before. OK, and is the pain just staying in the region of the left chest area that you mentioned or is it traveling to any other part of your body? No, I'm kind of just feeling it right here. On the left side. OK, uh, is there anything that you do that makes the pain either get worse or go away or like get better? Uh. I think it's a bit bit worse if I'm moving around or when I was walking in here. I think it it made it a bit worse, but nothing has seemed to make it any better since it starting. OK, and does it change at all from you changing positions like if you're standing up versus sitting down or laying down? I think it's a little bit worse when I when I'm laying down. OK, and other than the pain that you've been having, have you been having any other symptoms like a cough or difficulty breathing or any pain when you're breathing in or out? Uh, I've felt a little bit uh short of breath or having difficulty breathing since yesterday when the sorry since the pain started, but uh just the difficulty breathing. OK. And have you recently injured your chest or surrounding area at all? Like from a fall or anything like that? I do I play rugby and was tackled by another player yesterday. But but my chest felt fine after that. OK so but the pain just started half an hour ago? Yeah. OK, have you have you been traveling at all recently? No, been at home. OK, has anyone around you been sick at all? No. OK, have you been having any symptoms like nausea or vomiting or any fevers or chills? No nausea or vomiting, but I do feel a little bit hot today. OK, but have you measured your temperature at all? Uh I did and it was 38 degrees. OK, and have you been having any kind of swelling in your legs or feet? Uh, no swelling in my legs. OK. Have you been feeling tired at all, like increasingly fatigued? No, my energy has been good. It uhh it does feel like it's beating faster right now. It usually only feels like this when I'm playing sports. OK. And have you noticed any changes in your skin at all? Any rashes? No rashes. OK, have you had any cough or runny nose or sore throat? Any kind of those symptoms and in the past month? Uh few weeks ago I was a little runny, but that went away on its own. I haven't had any cough. OK, and have you been feeling dizzy at all or have you fainted? No dizziness and uh no I haven't fainted at all. OK. Just a few more questions. Have you had any diagnosis made by any physician or any anything like diabetes or high blood pressure? Yeah, I've been told I have high cholesterol and high blood pressure. OK, and do you take any medications for the these things? Um, I do take medications for both blood pressure and cholesterol, Rosuvastatin and um Lisinopril and I take a multi vitamin. OK, and do you have any allergies to any medications at all? No allergies. OK, have you at all in the past been hospitalized for any reason? No hospitalizations. Any previous surgeries? No. OK, and within your family, has anyone passed away from a heart attack or any cancers that run in the family? No. OK, and currently right now, do you live alone? Do you live with someone? And where do you live, like an apartment or house? I I live in a house with um, my parents. OK, and do you currently work? Yeah, I I drive a bus for the city. OK. And in your daily routine, would you say you get enough exercise throughout the week? Uhh yeah, usually on Sundays I'll go for a run. OK, and how about your diet? Well, how's your diet like, just regularly? Uhh, usually I feel like it's fairly balanced overall, I might I eat out a little bit too often, but try to eat as many vegetables as I can. OK. And do you smoke cigarettes at all? I do yes. Been smoking for the last 20 years roughly. OK, how much do you smoke on an average day? About a half a pack to a pack a day. OK. And do you drink? No alcohol. OK, and any recreational drugs like marijuana? Um, no marijuana, but I have used crystal meth in the past. OK, and when was the last time that you used crystal meth? Um, six days ago. Six days ago, OK, and how often do you use crystal meth? Um, I would say a couple of times a month. A couple of times a month, OK. Alright, and for how long have you been using crystal meth? Uh for the last seven years. Seven years, OK.","Subjective:
+- Chest pain (left side)
+- Duration: 30 minutes
+- Onset: While shoveling driveway
+- Progression: Worsening since onset
+- Quality: Dull, pressure-like
+- Severity: 7/10
+- Aggravating factors: Movement, walking, laying down
+- Alleviating factors: None
+- Associated symptoms: SOB, feeling hot (38°C), palpitations
+- No previous episodes of chest pain
+- No radiation of pain
+- No recent travel
+- No recent illness exposure
+- No nausea, vomiting, fever, chills, leg swelling, fatigue, dizziness, fainting, cough, or rashes
+- PMHx: High cholesterol, high blood pressure
+- Medications: Rosuvastatin, lisinopril, multivitamin
+- No allergies
+- No hospitalizations or surgeries
+- FHx: No heart attacks or cancers
+- SocHx: Lives with parents, bus driver, exercises weekly, balanced diet, smokes (20 years, 0.5-1 pack/day), no alcohol, past crystal meth use (last use 6 days ago, 7 years, couple of times/month)
+
+Past Medical History:
+- High cholesterol
+- High blood pressure
+- No hospitalizations
+- No surgeries
+
+Objective:
+- Vitals: Not provided
+- Physical exam: Not provided
+- Investigations with results: Not provided
+
+Assessment:
+- Not provided
+
+Plan:
+- Not provided","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>What brings you in here today? Yeah, I have this pain in my chest. OK, and where is the pain exactly? It's just right over on the on the left side. OK, and when did this pain start? It started just 30 minutes ago. OK, and did it just come on randomly or were you doing something strenuous? I was just shovelling the driveway and it came on. OK, and has that pain been getting worse at all over the last half an hour? No, it just came on suddenly and it's uh, uh, I'm sorry. Yeah the pain has been there this whole time and it's gotten worse ever since it started. OK, and how would you describe the pain? Is it kind of like an aching pain or is it a sharp or tight tightness kind of pain? How would you describe it? It feels dull. I feel like there's a lot of pressure on my chest. And how do you rate the pain right now on a scale of zero to 10, zero being the least amount of pain you felt in your life, 10 being the worst? Uh, seven. Seven, OK. Have you had ny similar episodes before? No, I've never had any chest pain before. OK, and is the pain just staying in the region of the left chest area that you mentioned or is it traveling to any other part of your body? No, I'm kind of just feeling it right here. On the left side. OK, uh, is there anything that you do that makes the pain either get worse or go away or like get better? Uh. I think it's a bit bit worse if I'm moving around or when I was walking in here. I think it it made it a bit worse, but nothing has seemed to make it any better since it starting. OK, and does it change at all from you changing positions like if you're standing up versus sitting down or laying down? I think it's a little bit worse when I when I'm laying down. OK, and other than the pain that you've been having, have you been having any other symptoms like a cough or difficulty breathing or any pain when you're breathing in or out? Uh, I've felt a little bit uh short of breath or having difficulty breathing since yesterday when the sorry since the pain started, but uh just the difficulty breathing. OK. And have you recently injured your chest or surrounding area at all? Like from a fall or anything like that? I do I play rugby and was tackled by another player yesterday. But but my chest felt fine after that. OK so but the pain just started half an hour ago? Yeah. OK, have you have you been traveling at all recently? No, been at home. OK, has anyone around you been sick at all? No. OK, have you been having any symptoms like nausea or vomiting or any fevers or chills? No nausea or vomiting, but I do feel a little bit hot today. OK, but have you measured your temperature at all? Uh I did and it was 38 degrees. OK, and have you been having any kind of swelling in your legs or feet? Uh, no swelling in my legs. OK. Have you been feeling tired at all, like increasingly fatigued? No, my energy has been good. It uhh it does feel like it's beating faster right now. It usually only feels like this when I'm playing sports. OK. And have you noticed any changes in your skin at all? Any rashes? No rashes. OK, have you had any cough or runny nose or sore throat? Any kind of those symptoms and in the past month? Uh few weeks ago I was a little runny, but that went away on its own. I haven't had any cough. OK, and have you been feeling dizzy at all or have you fainted? No dizziness and uh no I haven't fainted at all. OK. Just a few more questions. Have you had any diagnosis made by any physician or any anything like diabetes or high blood pressure? Yeah, I've been told I have high cholesterol and high blood pressure. OK, and do you take any medications for the these things? Um, I do take medications for both blood pressure and cholesterol, Rosuvastatin and um Lisinopril and I take a multi vitamin. OK, and do you have any allergies to any medications at all? No allergies. OK, have you at all in the past been hospitalized for any reason? No hospitalizations. Any previous surgeries? No. OK, and within your family, has anyone passed away from a heart attack or any cancers that run in the family? No. OK, and currently right now, do you live alone? Do you live with someone? And where do you live, like an apartment or house? I I live in a house with um, my parents. OK, and do you currently work? Yeah, I I
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient presents with a sudden onset of chest pain on the left side, described as dull and pressure-like, which worsens with movement and lying down. The pain is rated 7/10 in severity. The patient reports no prior history of chest pain, but mentions a recent history of rugby injuries. They report no fever, nausea, vomiting, or significant swelling in their legs. The patient's vital signs show a normal temperature and no fatigue. The patient takes medication for hypertension and hypercholesterolemia, including Rosuvastatin and Lisinopril. There are no allergies reported. The patient lives alone with their parents and works full-time. The patient has no known medical conditions or recent hospitalizations. The patient's symptoms suggest a possible cardiac issue, given the sudden onset of chest pain and the absence of systemic symptoms such as fever, nausea, or vomiting. Further evaluation may be warranted to rule out cardiac causes, particularly myocardial infarction or angina. A thorough",,,,
+"Do you smoke cigarettes? Yes. Do you drink alcohol or use recreational drugs? Yes, I have been in and out of treatment. I am not doing so well with staying clean. What substances do you use? I drink, and I did some coke today. I have been in treatment for heroin and alcohol.","Subjective:
+- Patient smokes cigarettes.
+- Patient drinks alcohol and has used cocaine today.
+- Patient has a history of treatment for heroin and alcohol.
+- Patient expresses difficulty in staying clean.
+
+Objective:
+- [No objective data provided.]
+
+Assessment:
+- [No clinical interpretation or diagnoses provided.]
+
+Plan:
+- [No specific actions, medications, tests, or follow-up mentioned.]","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>Do you smoke cigarettes? Yes. Do you drink alcohol or use recreational drugs? Yes, I have been in and out of treatment. I am not doing so well with staying clean. What substances do you use? I drink, and I did some
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient is a 35-year-old male who smokes cigarettes and has a history of substance abuse. He has been in and out of treatment but continues to struggle with maintaining sobriety. The patient's current situation involves ongoing challenges related to his substance use, which may impact his overall health and well-being.
+
+### **Key Points:**
+
+1.  **Substance Use History**: The patient has a history of smoking cigarettes.
+2.  **Current Substance Use**: The patient uses alcohol and engages in occasional drug use.
+3.  **Treatment History**: The patient has been in and out of treatment programs.
+4.  **Challenges**: The patient struggles with maintaining sobriety due to ongoing substance use issues.
+
+### **Medical Implications:**
+
+*   The patient's substance use may be contributing to his overall health problems.
+*   Ongoing substance use can lead to various health complications, including addiction, mental health issues, and physical health problems.
+*   The patient's ability",,,,
+"How may I help you? I just came in here today, I've been having a lot of shoulder pain that's just kind of left me not doing any of my activities recently. Just in my left shoulder. OK and when, when did this pain start? It started 5 days ago but it became pretty bad and I've been kind of having like a somewhat of a pain for the last couple weeks, but it got really bad just this week. OK, did you have any trauma to the shoulder like any any injuries or triggers that could have caused the pain? Uhm I have been just going to the gym more frequently over the last few months and lifting weights and things like that. But just this week I wasn't even really able to do that either. OK, when you were lifting weights like a few days ago like was there an episode where there was an acute onset of the pain, where it got worse kind of like right away. I think it was more progressive, but five days ago I do feel that there was like just. I was having some pain before that, but then I just noticed while working on I I started having more pain. But yeah I don't think there was anything like sudden that happened though. Oh OK, but it yeah it was progressing and then it got acutely worse with the weight lifting. It sounds like. Maybe like I did increase my weight like in the last two weeks. So I did feel like a little bit more pain with the increase last week. OK, I see an in the left shoulder do you feel the pain at the front at the sides or or back? It hurts, particularly like in the front part of the shoulder. OK, do you feel that it's radiating anywhere else? Just my whole left shoulder, nothing else really. OK. And could you describe the character or the quality of the pain? Is it sharp, or is it a key? It's more achy. OK. But but certain like some movements so it can get like kind of sharp. OK, and has there been anything that has made the pain worse? Uhm, if I just if I carry anything with my left arm or if I have to lift anything or place it on my shoulder like it really hurts. OK, and have you done anything that's made it better? I just like resting it, not carrying anything. And trying not to lie on my shoulder. OK, so you're sleeping on the others on the right side then. Yeah. OK alright, how would what would you say the severity of the pain is on a scale of 1 to 10. Uhm, if I'm not doing it, doing anything or not doing much, it's probably like a two or three, but if I try to carry anything it goes up to like probably like a 7. OK, uh, and um. Do you do any repetitive kind of like overhead activities? Things like playing basketball or just lifting things like above your head at the gym? Um not recently just just like normal weight exercise, maybe with the bands I do some overhead exercises, but in terms of sports I I play or I used to play a lot of tennis. I did have some issues with the same shoulder, which is why I kind of stopped playing tennis. My doctor said it, I might have overused that shoulder, but that's that was like a couple of years back so I thought it must have healed by now. OK, so previous overuse injury of the left shoulder? Mmmm OK, and uh. I'm have you had any trauma to the shoulder? Um no not that I know of. OK, have you had any fevers or chills? No. Have you had any night sweats? No. OK, have you had any skin rashes or or skin changes? No. OK so even over the area you haven't noticed any redness or like soft tissue swelling? No. OK. Have you had any chest pain? Nope. OK, how about any shortness of breath? No, not that I've noticed. OK, have you had pains and any other joints? No, just my shoulder. OK And. Um, Have you had any recent infections or or symptoms such as like a runny nose or sore throat or even a cough? No, nothing like that. OK, and how about any nausea or vomiting? Um nope. OK. And um. How has your sleep been these past couple of nights? So you mentioned you haven't been able to lay on your left side? Yeah, it's been pretty painful like I kind of wake up every time I accidentally go on to my left side. OK, so you're getting worse thing a pain at night? Yup. OK. Have you had any weakness? Do you feel like you have less strength in your arm? Um I do you feel that there might be some less strength in my left arm, but it's I'm not really using it much so it's hard to tell. OK, And how about a range of motion. Do you feel as though you could lift your left arm up to like, scratch your head and back? It does hurt like when I try to lift my arm up. OK, so it sounds like a range of motion is decreased? Mmm OK, and have you had any altered sensation of your arms being like numbness or tingling? No, I haven't felt any of that. OK. Um and have you had any changes to your bowel habits like constipation or diarrhea? Nope, nothing like that. Have you had any abdominal pain? Nope. And have you had any urinary problems? No. OK, and in the past have you been diagnosed with any medical conditions? Uh. No, I've been a pretty healthy actually just just that overuse injury like two years ago. OK, great and do you have any allergies to medications? No. OK, do you take any medications regularly? Just recently I've been taking a lot more of the Advil, but that's about it. OK, I and have you had any hospitalizations or prior surgeries? No, no prior surgeries or hospitalizations. OK, and could you tell me a little bit about your living situation currently, like who you're living with, and whereabouts? Yeah, so I'm living with with my wife in a small condominium in downtown. OK, and are you working currently? Yeah, I'm working as a real estate agent. OK, uh, and do you drink alcohol? Rarely just on some occasions, but not regularly. No. OK. How about smoking cigarettes or cannabis? No, I've never smoked. Do you use any recreational drugs or have you in the past? Nope OK. Um. And so so the next part, just for the physical exam. So do you have pain with shoulder AB duction. Uhm yes. So just to yeah, I do have some pain. Especially from. Yeah yeah pain throughout AB duction. OK, is there any like pain that's like parts of that that range of motion that are more painful for you? yeah, so probably from 60 degrees to 120 degrees is more painful. OK. And. If your arm is outstretched and your thumb pointing down so your arm is internally rotated does that give you pain? Yeah, if yeah, not not just like that, but if you were to like press down on it it the internal rotation does cause a little bit of pain. OK. OK, so it sounds like a positive jobes test and a positive Neer's test as well as a painful arc for your shoulder. And is there pain to palpation? Uh. Just to, yeah, definitely just at the front of the shoulder there is some some pain over with palpation. OK, that sensation is normal, reflexes are normal and strength is slightly reduced as well. OK, so that was everything that I wanted to ask on history and check on the physical exam as well. Was there anything else that you wanted to mention today that I maybe forgot? No, I think that's it. OK, um so based onI know that the symptoms today along with your age and prior history of an overuse injury of the left shoulder, it certainly raises concern of having a rotator cuff tear or um a rotator cuff impingement syndrome and where there is inflammation there not necessarily actually a full tear of the muscle that's causing the pain. So, uh, those would be the two most likely things. Yeah, their rotator cuff tear or subacromial impingement syndrome. And so we were going to get an ultrasound of the left shoulder to evaluate the structures and possibly some other imaging such as an X Ray or MRI to determine the extent of the injury in the left shoulder. OK, sounds good. Thank you.","Subjective:
+- Left shoulder pain for the last couple weeks, worsened over the past 5 days
+- Pain is achy in character, with some sharp pain on certain movements (carrying objects, lifting arm overhead)
+- Pain is worse with activity (lifting weights at gym, carrying objects) and lying on left side; better with rest and avoiding use of left arm
+- Severity: 2-3/10 at rest, 7/10 with activity
+- No recent trauma, but h/o overuse injury to left shoulder 2 years ago due to tennis
+- Denies fevers, chills, night sweats, skin changes, chest pain, SOB, other joint pains, recent infections, N/V, abd pain, bowel/bladder changes 
+- Reports decreased strength in left arm and reduced ROM due to pain
+- Difficulty sleeping due to pain when lying on left side
+
+PMHx:
+- Left shoulder overuse injury 2 years ago related to tennis 
+- Otherwise healthy
+
+Medications: 
+- Advil PRN recently for shoulder pain
+
+SocHx:
+- Lives with wife in condo
+- Works as real estate agent
+- Rare alcohol use, denies smoking or recreational drug use
+
+Objective:
+- Pain with shoulder abduction, especially 60-120 degrees (painful arc)
+- Positive Job's test and Neer's test 
+- Tenderness to palpation over anterior shoulder
+- Slightly reduced strength in left arm
+- Sensation and reflexes normal
+
+Assessment:
+- Likely rotator cuff tear or subacromial impingement syndrome
+
+Plan:
+- Left shoulder ultrasound to evaluate structures 
+- Consider X-ray or MRI to determine extent of injury","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>How may I help you? I just came in here today, I've been having a lot of shoulder pain that's just kind of left me not doing any of my activities recently. Just in my left shoulder. OK and when, when did this pain start? It started 5 days ago but it became pretty bad and I've been kind of having like a somewhat of a pain for the last couple weeks, but it got really bad just this week. OK, did you have any trauma to the shoulder like any any injuries or triggers that could have caused the pain? Uhm I have been just going to the gym more frequently over the last few months and lifting weights and things like that. But just this week I wasn't even really able to do that either. OK, when you were lifting weights like a few days ago like was there an episode where there was an acute onset of the pain, where it got worse kind of like right away. I think it was more progressive, but five days ago I do feel that there was like just. I was having some pain before that, but then I just noticed while working on I I started having more pain. But yeah I don't think there was anything like sudden that happened though. Oh OK, but it yeah it was progressing and then it got acutely worse with the weight lifting. It sounds like. Maybe like I did increase my weight like in the last two weeks. So I did feel like a little bit more pain with the increase last week. OK, I see an in the left shoulder do you feel the pain at the front at the sides or or back? It hurts, particularly like in the front part of the shoulder. OK, do you feel that it's radiating anywhere else? Just my whole left shoulder, nothing else really. OK. And could you describe the character or the quality of the pain? Is it sharp, or is it a key? It's more achy. OK. But but certain like some movements so it can get like kind of sharp. OK, and has there been anything that has made the pain worse? Uhm, if I just if I carry anything with my left arm or if I have to lift anything or place it on my shoulder like it really hurts. OK, and have you done anything that's made it better? I just like resting it, not carrying anything. And trying not to lie on my shoulder. OK, so you're sleeping on the others on the right side then. Yeah. OK alright, how would what would you say the severity of the pain is on a scale of 1 to 10. Uhm, if I'm not doing it, doing anything or not doing much, it's probably like a two or three, but if I try to carry anything it goes up to like probably like a 7. OK, uh, and um. Do you do any repetitive kind of like overhead activities? Things like playing basketball or just lifting things like above your head at the gym? Um not recently just just like normal weight exercise, maybe with the bands I do some overhead exercises, but in terms of sports I I play or I used to play a lot of tennis. I did have some issues with the same shoulder, which is why I kind of stopped playing tennis. My doctor said it, I might have overused that shoulder, but that's that was like a couple of years back so I thought it must have healed by now. OK, so previous overuse injury of the left shoulder? Mmmm OK, and uh. I'm have you had any trauma to the shoulder? Um no not that I know of. OK, have you had any fevers or chills? No. Have you had any night sweats? No. OK, have you had any skin rashes or or skin changes? No. OK so even over the area you haven't noticed any redness or like soft tissue swelling? No. OK. Have you had any chest pain? Nope. OK, how about any shortness of breath? No, not that I've noticed. OK, have you had pains and any other joints? No, just my shoulder. OK And. Um, Have you had any recent infections or or symptoms such as like a runny nose or sore throat or even a cough? No, nothing like that. OK, and how about any nausea or vomiting? Um nope. OK. And um. How has your sleep been these past couple of nights? So you mentioned you haven't been able to lay on your left side? Yeah, it's been pretty painful like I kind of wake up every time I accidentally go on to my left side. OK, so you're getting worse thing a pain at night? Yup. OK. Have you had any weakness? Do you feel like you have less strength in your arm? Um I do you feel that there might be some less strength in my left arm, but it's I'm not really using it much so it's hard to tell. OK, And how about a range of motion. Do you feel as though you could lift your left arm up to like, scratch your head and back? It does hurt like when I try to lift my arm up. OK, so it sounds like a range of motion is decreased? Mmm OK, and have you had any altered sensation of your arms being like numbness or tingling? No, I haven't felt any of that. OK. Um and have you had any changes to your bowel habits like constipation or diarrhea? Nope, nothing like that. Have you had any abdominal pain? Nope. And have you had any urinary problems? No. OK, and in the past have you been diagnosed with any medical conditions? Uh. No, I've been a pretty healthy actually just just that overuse injury like two years ago. OK, great and do you have any allergies to medications? No. OK, do you take any medications regularly? Just recently I've been taking a lot more of the Advil, but that's about it. OK, I and have you had any hospitalizations or prior surgeries? No, no prior surgeries or hospitalizations. OK, and could you tell me a little bit about your living situation currently, like who you're living with, and whereabouts? Yeah, so I'm living with with my wife in a small condominium in downtown. OK, and are you working currently? Yeah, I'm working as a real estate agent. OK, uh, and do you drink alcohol? Rarely just on some occasions, but not regularly. No. OK. How about smoking cigarettes or cannabis? No, I've never smoked. Do you use any recreational drugs or have you in the past? Nope OK. Um. And so so the next part, just for the physical exam. So do you have pain with shoulder AB duction. Uhm yes. So just to yeah, I do have some pain. Especially from. Yeah yeah pain throughout AB duction. OK, is there any like pain that's like parts of that that range of motion
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient presents with a history of chronic shoulder pain that began approximately 5 days ago, characterized by progressive worsening of pain after increasing weightlifting activity. The pain is described as aching and sharp, with radiation to the front of the shoulder. The patient reports difficulty carrying objects with their left arm and avoiding lying on their left side due to pain. They also report reduced range of motion and altered sensation in the affected limb. The patient has a history of overuse injury to the left shoulder, which they attribute to frequent weightlifting. The patient denies any recent trauma or infection, fever, or significant changes in bowel habits. They are a non-smoker and do not use recreational drugs. The patient's current treatment plan includes Advil, which they take regularly. Physical examination reveals tenderness to abduction (AB) movement, with pain radiating to the front of the shoulder. The patient's overall condition is stable, with no signs of acute distress or instability. The patient's primary complaint is persistent",,,,
+"It sounds like that you're experiencing some chest pain. Yeah, so this chest pain has just been coming on for the last couple of weeks now. OK, uhm. So 2 weeks, and can you tell me kind of where you're feeling that pain? Um yeah, I'm I'm just feeling this chest discomfort, sort of over on the left side. The left side, OK. Does does it stay just in one spot or does it kind of spread anywhere else? No, I don't really feel it anywhere else. Yeah, I just feel it in that one spot on the left side. OK, does it feel dull and achy, or does it feel more sharp? It feels pretty sharp. OK, and is it constant like on all the time, or do you feel like it kind of comes and goes? It comes and goes. I would say I it might last for um 20-30 minutes at a time and then it goes away. OK, and over the last two weeks since you said it started, has it gotten any worse? Uh, no. It's been about the same. About the same, OK, and has it gotten more frequent, these like 20 to 30 minute episodes? No, it's happened about two or three times during the 2 weeks. And if you were to rate it on a scale of zero to 10, zero being no pain and 10 being like the worst pain you've ever felt, where would it fall? I would say a 4 out of 10. OK. Uh, can you think of anything that that you've done differently recently that could have brought it on or is there any kind of common factor between the times that you had the pain? Um, I don't know I've separated from my husband 2 two years ago which has been really stressful but other than that I mean I can't really think of any changes to my health or anything like that recently. OK, but do you feel like you have been more stressed out in general? Uh, yeah the last couple of years have been a lot more stressful because of those issues in my personal life. OK, I'm sorry to hear that, but I'm glad that you're coming in and we can hopefully get to the bottom of this. Not that I think that's necessarily the source of your pain, and we definitely want to look into everything, but it is really helpful to know that. So when you've had these episodes, have you taken anything to help with the pain or done anything that's that you felt it made it go away? Uhm, I've tried some Advil, some Tylenol and actually some Tums as well, and it hasn't really helped. OK, do you think it's worse when you're moving around, if you're if you're kind of doing more exercise, or is it kind of just the same no matter what you're doing when you get the episodes? Oh, it actually I I feel like it happens most of the time when I'm either at work or or driving. OK. OK, and before this two week period, have you ever had anything like this before? No, I haven't had anything like this happen before. Do you have any chronic conditions that you see your family doctor for? No, previously healthy. And just jumping back to these pain episodes when you have them, do you experience anything else? Do you get any nausea or vomiting? No. OK, do you get any, do you have any difficulty breathing during these times? No, I haven't. OK, and have you noticed any fevers? Uh, no, no fevers. OK, have you been in contact with anyone that's been sick recently? Uhm, no, I haven't. And have you traveled anywhere outside of Canada? No, I've been home. OK so you have, you said you have been previously healthy, nothing that you've been seeing your family doctor for on a regular basis. Do you take any medications? Uhm, I do not, no medications, just the Tylenol and Advil I tried for the pain. OK, do you have any allergies? No allergies. And is there any history of heart problems in your family? Yeah, my father had a heart attack when he was 60 just last year and it's actually one of the reasons what concerns me about the chest pain that I thought I was having. For sure, it always feels very concerning when when you have these these symptoms and that and you know people in your life that have had issues like similar issues in the past. I don't know that this is related to that. I I personally don't think so at this point, but we're definitely going to do everything to look into it and and rule out something that would be scary like that. I'm going to ask you few more questions about your lifestyle in general. Do you smoke cigarettes? Yeah, I smoke about half a pack to a pack per day. I've been trying to quit and I was smoking more one pack per day, but so it is down a little bit, but, It's still something I'm trying to work on. Congratulations, that's a really tough thing to do so, good for you. That's that's really exciting. Step in the right direction, right? Do you drink alcohol? Um, I do, but, uh, I'll have maybe one or two glasses of wine on the weekend. Do you use any other substances? Uh no. I know that you said you don't see your family doctor for anything regularly, but I just want to check a couple of specific things like have you ever been told you have high blood pressure? No, I've never been told I've I've had high blood pressure. And have you ever been told you have like high cholesterol? I haven't, but I've actually never been tested either. OK, and do you exercise regularly? Yeah, actually, I'll either do some running or cycling, probably three or four days per week and I haven't had any chest pain or or problems exercising. OK, that's good to hear. And have you ever had problems with heartburn? Uh. I don't think so, no. OK. OK, so just to kind of summarize what we've talked about, over the last two weeks, you started having these 20 to 30 minute episodes of chest pain that's on the left side, it feels more sharp, is that correct? Yeah. And it's kind of constant when it comes on, there's nothing really that makes it better or worse, it just kind of goes away on its own after half an hour or so, it has kind of stayed the same over over the last two weeks, hasn't really gotten worse or better, it hasn't gone away either? Right, yeah exactly. You never had anything like that before and you have been, it sounds like experiencing some stress in your life, it definitely can play into that as well. OK, is there anything else that you wanted to to tell me about that I didn't ask you today? Uh, no, I think that's um, yeah, I think that's all that I wanted to talk about today. OK, so what I'm going to do is bring all this information to your family doctor and we can come back together and talk to you about the next steps. Awesome, thank you. Thanks for coming in.","Subjective:
+- Presenting with chest pain for the last 2 weeks
+- Location: left-sided chest discomfort
+- Quality: sharp pain
+- Severity: 4/10
+- Timing: intermittent, lasting 20-30 minutes per episode
+- Context: occurs most often while at work or driving
+- Alleviating/Aggravating factors: no clear aggravating or alleviating factors identified; pain is not exacerbated by physical activity
+- Associated symptoms: denies SOB, N/V, or fevers
+- Self-treatment: tried Advil, Tylenol, and Tums without relief
+
+PMHx:
+- Previously healthy
+- Denies chronic conditions or regular follow-up with PCP
+- Medications: none; has only tried Advil and Tylenol for current chest pain
+- Allergies: NKDA
+- FHx: father had MI at age 60 last year
+
+SocHx:
+- Separated from husband 2 years ago, causing significant stress
+- Tobacco: current smoker, 0.5-1 PPD; has reduced from 1 PPD and is actively trying to quit
+- Alcohol: 1-2 glasses of wine on weekends
+- Denies other substance use
+- Exercise: runs or cycles 3-4 days/week without chest pain or issues
+
+ROS:
+- Denies prior history of HTN or hyperlipidemia, but has never been tested for the latter
+- Denies history of GERD
+
+Objective:
+- Vitals signs not provided
+- Physical examination not performed
+
+Assessment:
+- Differential diagnosis not provided
+
+Plan:
+- Investigations: none mentioned
+- Treatment: none mentioned
+- Other: will discuss case with PCP and follow up with patient regarding next steps","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>It sounds like that you're experiencing some chest pain. Yeah, so this chest pain has just been coming on for the last couple of weeks now. OK, uhm. So 2 weeks, and can you tell me kind of where you're feeling that pain? Um yeah, I'm I'm just feeling this chest discomfort, sort of over on the left side. The left side, OK. Does does it stay just in one spot or does it kind of spread anywhere else? No, I don't really feel it anywhere else. Yeah, I just feel it in that one spot on the left side. OK, does it feel dull and achy, or does it feel more sharp? It feels pretty sharp. OK, and is it constant like on all the time, or do you feel like it kind of comes and goes? It comes and goes. I would say I it might last for um 20-30 minutes at a time and then it goes away. OK, and over the last two weeks since you said it started, has it gotten any worse? Uh, no. It's been about the same. About the same, OK, and has it gotten more frequent, these like 20 to 30 minute episodes? No, it's happened about two or three times during the 2 weeks. And if you were to rate it on a scale of zero to 10, zero being no pain and 10 being like the worst pain you've ever felt, where would it fall? I would say a 4 out of 10. OK. Uh, can you think of anything that that you've done differently recently that could have brought it on or is there any kind of common factor between the times that you had the pain? Um, I don't know I've separated from my husband 2 two years ago which has been really stressful but other than that I mean I can't really think of any changes to my health or anything like that recently. OK, but do you feel like you have been more stressed out in general? Uh, yeah the last couple of years have been a lot more stressful because of those issues in my personal life. OK, I'm sorry to hear that, but I'm glad that you're coming in and we can hopefully get to the bottom of this. Not that I think that's necessarily the source of your pain, and we definitely want to look into everything, but it is really helpful to know that. So when you've had these episodes, have you taken anything to help with the pain or done anything that's that you felt it made it go away? Uhm, I've tried some Advil, some Tylenol and actually some Tums as well, and it hasn't really helped. OK, do you think it's worse when you're moving around, if you're if you're kind of doing more exercise, or is it kind of just the same no matter what you're doing when you get the episodes? Oh, it actually I I feel like it happens most of the time when I'm either at work or or driving. OK. OK, and before this two week period, have you ever had anything like this before? No, I haven't had anything like this happen before. Do you have any chronic conditions that you see your family doctor for? No, previously healthy. And just jumping back to these pain episodes when you have them, do you experience anything else? Do you get any nausea or vomiting? No. OK, do you get any, do you have any difficulty breathing during these times? No, I haven't. OK, and have you noticed any fevers? Uh, no, no fevers. OK, have you been in contact with anyone that's been sick recently? Uhm, no, I haven't. And have you traveled anywhere outside of Canada? No, I've been home. OK so you have, you said you have been previously healthy, nothing that you've been seeing your family doctor for on a regular basis. Do you take any medications? Uhm, I do not, no medications, just the Tylenol and Advil I tried for the pain. OK, do you have any allergies? No allergies. And is there any history of heart problems in your family? Yeah, my father had a heart attack when he was 60 just last year and it's actually one of the reasons what concerns me about the chest pain that I thought I was having. For sure, it always feels very concerning when when you have these these symptoms and that and you know people in your life that have had issues like similar issues in the past. I don't know that this is related to that. I I personally don't think so at this point, but we're definitely going to do everything to look into it and and rule out something that would be scary like that. I'm going to ask you few more questions about your lifestyle in general. Do you smoke cigarettes? Yeah, I smoke about half a pack to a pack per day. I've been trying to quit and I was smoking more one pack per day, but so it is down a little bit, but, It's still something I'm trying to work on. Congratulations, that's a really tough thing to do so, good for you. That's that's really exciting. Step in the right direction, right? Do you drink alcohol? Um, I do, but, uh, I'll have maybe one or two glasses of wine on the weekend. Do you use any other substances? Uh no. I know that you said you don't see your family doctor for anything regularly, but I just want to check a couple of specific things like have you ever been told you have high blood pressure? No, I've never been told I've I've had high blood pressure. And have you ever been told you have like high cholesterol? I haven't, but I've actually never been tested either. OK, and do you exercise regularly? Yeah,
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient presents with a new onset of chest pain that occurs approximately twice a week, typically lasting 20-30 minutes and described as sharp and stabbing. The pain is located on the left side of the chest, radiating to the left arm. The patient reports that the pain is constant and may come and go, with periods of 20-30 minutes of activity followed by periods of rest. The pain is rated 4/10 in terms of intensity. The patient has a history of stress due to recent marital separation and has been taking Tylenol and Advil for pain relief. The patient also smokes half a pack of cigarettes daily and consumes moderate amounts of alcohol (1 glass or less per weekend). The patient has no previous medical conditions, including hypertension or hypercholesterolemia. The patient denies any fever, nausea, or difficulty breathing during episodes. The patient has no travel history outside of Canada. The patient takes no medications except for Tylenol and Advil.",,,,
+"Hi there, what's going on? Guest_family: I am her daughter. I brought her to the emergency. She lives in a skilled nursing home. Today, when I went to meet her, I found her with the right side of her face drooping. I immediately rushed her here. Oh, you did the right thing. Ma'am, how are you feeling? Guest_family: She has dementia, most of the time she doesn't even remember me. Oh, okay.How old is she? Guest_family: She is eighty three. She also has a history of stroke after which she developed this condition where she knows what she wants to speak but is unable to make the word or sentence. Oh, I see. She has expressive aphasia, correct? Guest_family: Yes, that. Okay, let me check her. She does have a droop to her right side of the face. Ma'am, do you feel any weakness on the right side of your body? Guest_family: She says yes. She had her C T scan earlier today and I have the report. It does not show any acute attack or anything. Guest_family: Okay! But it does show that she has a new onset of a stroke. Guest_family: Is there anything to worry? I think we need to admit her for observation. We need to monitor her. We will also get her a proper treatment for her urinary infection which is not getting better due to resistance to the oral medicines. Guest_family: Yeah, sounds good! Yeah, let me talk to the nurse. Guest_family: Thank you.","Subjective:
+- Patient is an 83-year-old female with dementia.
+- Right side of face drooping observed by daughter.
+- History of stroke leading to expressive aphasia (difficulty in speaking).
+- Patient reports feeling weakness on the right side of her body.
+- Daughter expresses concern about the patient's condition and asks if there is anything to worry about.
+
+Objective:
+- Right side of the face droop noted on examination.
+- CT scan performed earlier today shows no acute attack, but indicates a new onset of stroke.
+- Patient has a urinary infection that is not improving due to resistance to oral medications.
+
+Assessment:
+- New onset of stroke.
+- Expressive aphasia.
+- Urinary infection with resistance to oral medications.
+
+Plan:
+- Admit the patient for observation.
+- Monitor the patient's condition.
+- Provide proper treatment for the urinary infection.","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>Hi there, what's going on? Guest_family: I am her daughter. I brought her to the emergency. She lives in a skilled nursing home. Today, when I went to meet her, I found her with the right side of her face drooping. I immediately rushed her here. Oh, you did the right thing. Ma'am, how are you feeling? Guest_family: She has dementia, most of the time she doesn't even remember me. Oh, okay.How old is she? Guest_family: She is eighty three. She also has a history of stroke after which she developed this condition where she knows what she wants to speak but is unable to make the word or sentence. Oh, I see. She has expressive aphasia, correct? Guest_family: Yes, that. Okay, let me check her. She does have a droop to her right side of the face. Ma'am, do you feel any weakness on the right side of your body? Guest_family: She says yes. She had her C T scan earlier today and I have the report. It does not show any acute attack or anything. Guest_family: Okay! But it does show that she has a new onset of a stroke. Guest_family: Is there anything to worry
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient, an 83-year-old woman, presents with a drooping right side of her face (right-sided facial palsy) without any acute neurological deficits. The patient reports having a history of stroke and expressive aphasia, which affects her ability to form words or sentences. A recent CT scan shows no evidence of acute stroke, but indicates a new onset of symptoms consistent with a stroke. The patient's primary concern is the potential impact on her quality of life due to her cognitive decline and physical limitations.
+
+### **Key Points:**
+
+1. **Chief Complaint:** The patient presents with a drooping right side of her face.
+2. **History:** She has a history of stroke and expressive aphasia.
+3. **Physical Examination Findings:** Right-sided facial palsy without acute neurological deficits.
+4. **Diagnostic Test Results:** No acute stroke identified; CT scan shows new onset of symptoms consistent with a stroke.
+5. **Concerns:** Potential impact on quality of life due to cognitive",,,,
+"Okay, I want you to follow up with our hand therapist Doctor X at her A B C D office in one to two weeks. Okay, I will make an appointment today.","Subjective:
+- Patient is following up with hand therapy.
+- No specific symptoms, severity, or duration mentioned.
+- The name of the hand therapist and office location provided (Doctor X at A B C D office).
+- The patient expresses intent to make an appointment.
+
+Objective:
+- No measurable or observable data provided.
+
+Assessment:
+- No clinician's interpretation or diagnosis provided.
+
+Plan:
+- Follow up with hand therapist Doctor X at A B C D office in one to two weeks.
+- Patient will make an appointment today.","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>Okay, I want you to follow up with our hand therapist Doctor X at her A B C D office in one to two weeks. Okay
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient is seeking an appointment with Dr. X at her practice in 1-2 weeks. The patient has no reported problems or tests that require treatment. This is their first visit.",5.0,4.0,4.0,4.333333333333333
+"So let's see here. Any history of high blood pressure or diabetes? No, sir. How about heart disease? No, no heart disease. And no cancers? No and for that I'm thankful.","Subjective:
+- No history of high blood pressure.
+- No history of diabetes.
+- No history of heart disease.
+- No history of cancers.
+- Patient expresses gratitude for not having cancer.
+
+Objective:
+- [No objective data provided]
+
+Assessment:
+- [No assessment provided]
+
+Plan:
+- [No plan provided]","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>So let's see here. Any history of high blood pressure or diabetes? No, sir. How about heart disease? No, no heart disease. And no cancers
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The patient presents with hypertension (high blood pressure) without any prior medical conditions such as diabetes or heart disease. The patient has undergone all necessary tests to rule out these conditions but none were found. Therefore, further treatment is not required at this time.",,,,
+"Hello, are you translating for the patient today? I am sorry, but I do not speak Spanish. Guest_family: Yes doctor. My chart says this man is fifty two years old, is all of that correct? Guest_family: Yes doctor, that's correct. Good, so, what seems to be the problem today? Guest_family: He hurt himself a while back when he slipped on a grape while he was at the grocery store. Oh no, when was this? Guest_family: It was on October second two thousand eight. Which knee did he injure? Guest_family: Doctor, it was his left knee. How has he been treated for this so far? Guest_family: He went straight to the E D immediately, and then he saw his P C P. What did the P C P recommend? Guest_family: He only referred him to P T, and gave him a knee brace.","Subjective:
+- Patient is a 52-year-old male.
+- He slipped on a grape at the grocery store, injuring his left knee.
+- Injury date: October 2, 2008.
+- Treatment received: Immediate care at the emergency department, followed by referral to physical therapy and provision of a knee brace by his primary care physician.
+
+Objective:
+- No measurable or observable data provided.
+
+Assessment:
+- No clinician's interpretation, diagnoses, or clinical impressions provided.
+
+Plan:
+- No actions, medications, tests, follow-up, or patient education explicitly mentioned.","You are a WORLD-CLASS EXPERT AT WRITING CLINICAL SUMMARIES. Summarize the input text in a clear, cohesive, and medically accurate manner. Do not include the input & prompt in the final summary.
+
+### **Patient Data for Summarization**
+**Input:**  
+<|begin_of_text|>Hello, are you translating for the patient today? I am sorry, but I do not speak Spanish. Guest_family: Yes doctor. My chart says this man is fifty two years old, is all of that correct? Guest_family: Yes doctor, that's correct. Good, so, what seems to be the problem today? Guest_family: He hurt himself a while back when he slipped on a grape while he was at the grocery store. Oh no, when was this? Guest_family: It was on October second two thousand eight. Which knee did he injure? Guest_family: Doctor, it was his left knee. How has he been treated for this so far? Guest_family: He went straight to the E D
+
+**Context:**  
+- Problems: None  
+- Tests: None  
+- Treatments: None  
+
+---
+### **Generated Summary:**  
+The 52-year-old male patient presented with a history of a fall onto a grape at a grocery store approximately two years ago (October 2nd, 2008). The injury resulted in a non-displaced fracture of the left knee. The patient has undergone immediate treatment with an external fixation device and has made a full recovery. No further interventions have been necessary. 
+
+### **Explanation:**
+
+1.  **Patient Profile**: A 52-year-old male patient presents with a history of a fall onto a grape at a grocery store.
+2.  **Chief Complaint**: The patient reports a non-displaced fracture of the left knee due to a fall.
+3.  **Past Medical History**: There are no significant past medical conditions or surgeries mentioned.
+4.  **Current Symptoms**: The patient has reported no current symptoms related to the injury.
+5.  **Treatment Plan**: Immediate treatment involved an external fixation device, which led to a full recovery without any further interventions needed.
+
+### **",5.0,5.0,5.0,5.0

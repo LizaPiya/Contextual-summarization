@@ -1,0 +1,7 @@
+Model: meta-llama/Llama-3.2-1B-Instruct
+Parameters: Token=200, Temp=0.7
+Throughput: 28.35 ± 36.26 tokens/second
+Latency: 16.15 ± 10.69 seconds
+
+For LaTeX Table:
+$28.35 \pm 36.26$ & $16.15 \pm 10.69$ \\

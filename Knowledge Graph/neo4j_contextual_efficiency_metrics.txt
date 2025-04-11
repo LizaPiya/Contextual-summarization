@@ -1,0 +1,6 @@
+Parameters: Token=200, Temp=0.7
+Throughput: 0.00 ± 0.00 tokens/second
+Latency: 0.00 ± 0.00 seconds
+
+For LaTeX Table:
+$0.00 \pm 0.00$ & $0.00 \pm 0.00$ \\
