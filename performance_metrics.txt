@@ -1,5 +1,0 @@
-Model: meta-llama/Llama-3.2-1B-Instruct
-Parameters: Token=200, Temp=0.7
-Throughput: 36.72 ± 2.44 tokens/sec
-Latency: 3612.98 ± 1315.02 ms
-Table format: $36.72 \pm 2.44$ & $3612.98 \pm 1315.02$ \\

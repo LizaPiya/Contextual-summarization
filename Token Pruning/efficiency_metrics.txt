@@ -1,6 +1,0 @@
-Parameters: Token=200, Temp=0.7
-Throughput: 139.10 ± 10.04 tokens/second
-Latency: 12.38 ± 1.25 seconds
-
-For LaTeX Table:
-$139.10 \pm 10.04$ & $12.38 \pm 1.25$ \\
